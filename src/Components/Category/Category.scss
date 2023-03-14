@@ -1,0 +1,16 @@
+.category-container{
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    // padding: 0px 20px;
+    margin-top: 24px;
+    .category-row1{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .category-row2{
+        display: flex;
+        justify-content: space-between;
+    }
+}

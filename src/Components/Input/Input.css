@@ -1,0 +1,23 @@
+.input-container {
+  display: block;
+  width: 100%;
+}
+.input-container .input-box {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 8px;
+}
+.input-container .input-box input {
+  display: flex;
+  font-family: "Poppins";
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  padding: 13px 0px 14px 21px;
+  line-height: 18px;
+  flex: 1 1 50%;
+}/*# sourceMappingURL=Input.css.map */

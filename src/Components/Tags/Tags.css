@@ -1,0 +1,25 @@
+.tag-row {
+  display: flex;
+  margin: 0px 10px;
+  width: 320px;
+  overflow-x: scroll;
+  gap: 4px;
+}
+.tag-row .tag {
+  padding: 6px 17px;
+  display: flex;
+  box-shadow: rgba(0, 0, 0, 0.14) 4px 1px 4px;
+  border-radius: 6px;
+  background: #EFF2F4;
+}
+.tag-row .tag span {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  width: -moz-max-content;
+  width: max-content;
+  font-size: 16px;
+  margin: 0;
+  line-height: 24px;
+  color: #064490;
+}/*# sourceMappingURL=Tags.css.map */

@@ -1,0 +1,31 @@
+.text-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .mheading{
+        margin-bottom: 0;
+    }
+  p {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        color: black;
+        margin: 8px 0px 40px 0px;
+    }
+    .b-img{
+        max-width: 303px;
+    }
+    .c-img{
+        width: 282px;
+        height: 304px;
+        margin: 0 auto;
+    }
+    
+    button{
+        margin-top: 32px ;
+        margin-bottom: 64px;
+    }
+}

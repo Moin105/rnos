@@ -1,0 +1,38 @@
+.hwitworks {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 24px;
+}
+.hwitworks .hiw-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 27px;
+}
+.hwitworks .hiw-row .left {
+  width: 142.88px;
+  height: 157.61px;
+}
+.hwitworks .hiw-row .right {
+  display: flex;
+  max-width: 166px;
+  flex-direction: column;
+  gap: 7px;
+}
+.hwitworks .hiw-row .right .h5 {
+  margin: 0;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+.hwitworks .hiw-row .right p {
+  margin: 0;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+}/*# sourceMappingURL=howitworks.css.map */

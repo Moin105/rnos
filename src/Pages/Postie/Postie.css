@@ -1,0 +1,120 @@
+@media only screen and (max-width: 550px) {
+  .background-postie {
+    background-image: url("../../Images/banner4.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 701px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .background-postie .head {
+    width: 87%;
+    margin: 118px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .background-postie .head .heading {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .background-postie .head .heading span {
+    color: #F21B2D;
+  }
+  .background-postie .head .btn {
+    margin: 107px 0px 111px 0px;
+    padding: 14px 0px;
+    width: 320px;
+  }
+  .background-postie .head h5 {
+    margin: 0px 0px 16px 0px;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  .background-postie .head .texta {
+    font-family: "Poppins";
+    font-style: normal;
+    width: 90%;
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  .background-postie .hiw-us {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    max-width: 320px;
+    align-items: center;
+  }
+  .background-postie .hiw-us .heading {
+    margin-top: 32px;
+    margin-bottom: 30px;
+  }
+  .background-postie .hiw-us p {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    width: 95%;
+    margin: 0 auto;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+  }
+  .background-postie .hiw-us .see-more {
+    margin: 32px auto;
+  }
+  .background-postie .hiw-us .hiw-img {
+    width: 303px;
+    height: 204.05px;
+  }
+  .background-postie .hiw-us .hiw-img img {
+    width: 100%;
+    height: 100%;
+  }
+  .background-postie .info-box {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 320px;
+  }
+  .background-postie .info-box .text-box {
+    align-items: center;
+  }
+  .background-postie .info-box .text-box .mheading {
+    font-size: 24px;
+  }
+  .background-postie .info-box .text-box .content {
+    margin: 8px 8px 10px 10px;
+  }
+  .background-postie .sheading {
+    margin: 0;
+  }
+  .background-postie .hiw {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}/*# sourceMappingURL=Postie.css.map */

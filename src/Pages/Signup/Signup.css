@@ -1,0 +1,43 @@
+.signup-container {
+  background-image: url("../../Images/smheader.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 170px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.signup-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.signup-box .heading {
+  margin: 57px 0px 8px 0px;
+}
+.signup-box span {
+  font-family: "Poppins";
+  font-style: normal;
+  margin-bottom: 40px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #F21B2D;
+  line-height: 24px;
+}
+.signup-box .signup-form {
+  display: flex;
+  max-width: 305px;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+}
+.signup-box .signup-form .input-container .input-box input {
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.25);
+  margin-bottom: 24px;
+}
+.signup-box .signup-form .btn {
+  padding: 13px 102px 14px 102px;
+  margin: 16px 0px 0px 0px;
+}/*# sourceMappingURL=Signup.css.map */
